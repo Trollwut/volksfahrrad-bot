@@ -18,6 +18,7 @@ sleep_after_comment = 60 * 10
 # name of save file
 save_file = 'replied_to.txt'
 
+# ripped from https://www.reddit.com/r/de/comments/80f5wv/afdgemeinder%C3%A4te_bieten_geld_f%C3%BCr_mandat_die/duvcgh2/
 answer = "Diese Partei ist ein Organ der Niedertracht. Es ist falsch, sie zu wählen. Jemand, der zu dieser Partei beiträgt, ist gesellschaftlich absolut inakzeptabel. Es wäre verfehlt, zu einem ihrer Politiker freundlich oder auch nur höflich zu sein. Man muss so unfreundlich zu ihnen sein, wie es das Gesetz gerade noch zulässt. Es sind schlechte Menschen, die Falsches tun."
 
 def bot_login():
